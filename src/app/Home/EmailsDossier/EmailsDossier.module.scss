@@ -1,0 +1,70 @@
+@use "@/@assets/styles/abstracts" as *;
+.emailsList {
+  gap: 3rem;
+  .email {
+    width: calc((100% - 6rem) / 3);
+    padding: 0.6rem 0 0 0.6rem;
+    border-radius: 10px;
+    background-color: $brown;
+    color: $black;
+    .emailCore {
+      background-color: $white;
+      height: 100%;
+      padding: 1.3rem 1rem;
+      border-radius: 10px;
+      transform: translate(1rem, 1rem);
+      gap: 1.5rem;
+      .name {
+        font-size: 2rem;
+      }
+      .infoBlock {
+        .blockName {
+          margin-bottom: 0.6rem;
+        }
+        .blockList {
+          gap: 0.3rem;
+          .listRow {
+            gap: 1.5rem;
+            .key {
+              width: 9rem;
+              color: $darkBlue;
+              text-transform: capitalize;
+            }
+            .value {
+              @include breakWord;
+            }
+          }
+          &.vertical {
+            gap: 1rem;
+            .listRow {
+              gap: 0.4rem;
+              flex-direction: column;
+              .value {
+                @include maxText(40rem);
+              }
+            }
+          }
+        }
+        .blockTags {
+          gap: 1rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: $mobile-screen) {
+  .emailsList {
+    .email {
+      width: calc((100% - 3rem) / 2);
+    }
+  }
+}
+
+@media screen and (max-width: $phone-screen) {
+  .emailsList {
+    .email {
+      width: 100%;
+    }
+  }
+}

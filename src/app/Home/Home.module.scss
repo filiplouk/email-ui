@@ -1,0 +1,10 @@
+@use "@/@assets/styles/abstracts" as *;
+
+.home {
+  padding: 3rem var(--page-padding);
+  background-color: $blue;
+  .homeCore {
+    width: 100%;
+    max-width: var(--page-max);
+  }
+}

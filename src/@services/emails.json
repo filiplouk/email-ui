@@ -1,0 +1,1044 @@
+{
+    "mails": [
+        {
+            "archiveUntil": 1734860494096,
+            "createdAt": 1736474144537,
+            "creator": {
+                "firstName": "Julia",
+                "id": "julia.martinez@company.io",
+                "lastName": "Martinez"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 1",
+            "genesisArchivingDate": 1730373862704,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_1.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_1.eml",
+            "size": 3982,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "FrZKbFRBwfsZBzNLqJYFWwaylJOIwyMcawGylXiuvoAvkKALRhKXpRYmjAdswzoa",
+                    "seedId": "zmVQDQZUlkbyoCkq",
+                    "status": 1,
+                    "transaction": "anXPjayaPmtCoGxrCBasELyJMlQdanXrBqTFYushEcMaEGXsURlumstbPblbxvUf"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "julia.martinez@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user0@demo.net"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 1: tTKxyuaAdTqqAqf"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user0@company.io"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user0@demo.net"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1711974148197,
+            "createdAt": 1736240330134,
+            "creator": {
+                "firstName": "Charlie",
+                "id": "charlie.williams@mail.com",
+                "lastName": "Williams"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 2",
+            "genesisArchivingDate": 1718035548098,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_2.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_2.eml",
+            "size": 3069,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "KzXDNXvRLikIZFKBMoxlYRsMiImtrQbToWSviQbjoHcpCEdXFFwVKGHooPHppxIT",
+                    "seedId": "wlQUMZipdcaylkCp",
+                    "status": 1,
+                    "transaction": "hMPdkZLqHvpXbegVuJSWHuUcmIZUvsWiVvusyVKiIBgSfbENnhRvERoQgupSNmnp"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "charlie.williams@company.io"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user1@mail.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 2: BkGIfwpIBbBBTvb"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user1@example.com"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user1@example.com"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1707114795149,
+            "createdAt": 1736582569600,
+            "creator": {
+                "firstName": "Julia",
+                "id": "julia.miller@mail.com",
+                "lastName": "Miller"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 3",
+            "genesisArchivingDate": 1711852259537,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_3.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_3.eml",
+            "size": 4382,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "LczxAqanvbdCTZKvTSPtqndBFPWjvosrFMDoktjSkiSnXdqRhiBJNRbVglFZJfoo",
+                    "seedId": "elrnlnvgRyDbWNsf",
+                    "status": 3,
+                    "transaction": "IduHPeUwUxlGtpxeEcwvDcLmICjSAdXJaXfGnzlEvgsvYmbSRhtOpnzGeGqbKnsc"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "julia.miller@mail.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user2@example.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 3: QanagFCoKPoNJNZ"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user2@company.io"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user2@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1714152914267,
+            "createdAt": 1736724692894,
+            "creator": {
+                "firstName": "Bob",
+                "id": "bob.williams@mail.com",
+                "lastName": "Williams"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 4",
+            "genesisArchivingDate": 1677455625573,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_4.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_4.eml",
+            "size": 4383,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "EmzPsABFuINNeVGoWWetqklFMhUiqElHQAzaBVissjcGZdhfhEkzTpTGTkbvHWwt",
+                    "seedId": "DzJnhSvZkDUqcEfd",
+                    "status": 2,
+                    "transaction": "zBJEtTUmEKPCzxxtsuhLQXzyVeyMdUWXLyHTVYpkXRpuipuCOpsFmHiQwxJTldRP"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "bob.williams@example.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user3@mail.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 4: pxBRcyEOgDMEPIA"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user3@test.org"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user3@demo.net"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1735985699101,
+            "createdAt": 1736087722246,
+            "creator": {
+                "firstName": "Isaac",
+                "id": "isaac.jones@example.com",
+                "lastName": "Jones"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 5",
+            "genesisArchivingDate": 1711572457938,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_5.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_5.eml",
+            "size": 1187,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "HRscjcHrHfEmnrJTKwAajBHiqhzuDUxEJYpJQibuncpUfDfbPpZuiBNRWYjfiiMI",
+                    "seedId": "mOVPziNGaowCReMc",
+                    "status": 2,
+                    "transaction": "CjtBCNFKsYDzTGvAQITbwEJOYJWqHyFALZVKjJXASnaNSqRfVkJcEEaPzmjiUdSr"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "isaac.jones@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user4@demo.net"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 5: iWhtySTBDMfzPlm"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user4@test.org"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user4@mail.com"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1705731810749,
+            "createdAt": 1736470894227,
+            "creator": {
+                "firstName": "Julia",
+                "id": "julia.smith@test.org",
+                "lastName": "Smith"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 6",
+            "genesisArchivingDate": 1690605990010,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_6.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_6.eml",
+            "size": 1277,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "uCFgjFgEjXdIYccpVjLzalHZxvIRYHviEXwfIUEtEJkUyxysQwXIkdFIzRoViNkr",
+                    "seedId": "gOBTKZaYbPvcstLb",
+                    "status": 3,
+                    "transaction": "IIpShlZqGSUtmcBOruolDgXvALmyblmkhySrIZozaApEMUXSONeabLVvrPiCcrYk"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "julia.smith@test.org"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user5@company.io"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 6: cxsxCpHvtVwtYXN"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user5@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user5@mail.com"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1713867754010,
+            "createdAt": 1736060221142,
+            "creator": {
+                "firstName": "Alice",
+                "id": "alice.brown@demo.net",
+                "lastName": "Brown"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 7",
+            "genesisArchivingDate": 1732249649954,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_7.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_7.eml",
+            "size": 1204,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "oOJdrVPbCeTRdlxVYcWoOixsRUttfdWCoCkzqHpaRwovqcQpShNTeMJAJLMqHufd",
+                    "seedId": "UtERAdkjtctEhkpV",
+                    "status": 2,
+                    "transaction": "pbaLkBOOuyHlQMtUkpJHnocVIpLsiAnMHrjWcXRjQNVQFjQTUVfdvWOzHOQGntLK"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "alice.brown@example.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user6@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 7: mHsEoHGaBweZHkz"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user6@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user6@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1706839532078,
+            "createdAt": 1736411409326,
+            "creator": {
+                "firstName": "Charlie",
+                "id": "charlie.garcia@test.org",
+                "lastName": "Garcia"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 8",
+            "genesisArchivingDate": 1722607944942,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_8.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_8.eml",
+            "size": 3745,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "WTJJoTPfyKFIKjdqmDjwuvJCVArnJPTJRBfdGDBylgVzbwcdsvZxdAXprFrUOhjJ",
+                    "seedId": "JzaAXidDLhhGiwrx",
+                    "status": 2,
+                    "transaction": "ksHTBDSgTevMPRhxSbjHpyqbLUjgkCbyhglzzbcpolIleKUrAzIgCeWExBoudwoZ"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "charlie.garcia@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user7@mail.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 8: VyfKUhTdTURNHwu"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user7@test.org"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user7@example.com"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1714690622949,
+            "createdAt": 1736561498475,
+            "creator": {
+                "firstName": "George",
+                "id": "george.miller@test.org",
+                "lastName": "Miller"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 9",
+            "genesisArchivingDate": 1728121524981,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_9.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_9.eml",
+            "size": 3191,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "LkqilynwedQWwHxIgWFQyYxDsDdtPVVdYaDuboVmFWlQXuWFdZsKLqNeyGneIQgM",
+                    "seedId": "UDYBSmQxATHCpxzZ",
+                    "status": 2,
+                    "transaction": "PeUOmZQwQfAHHAtnJPmoIcIEvpKrFnIfynfQrCfvRAVBBkcdrCiRHPhEqwbQXvtq"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "george.miller@test.org"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user8@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 9: civLoUHxZFTvLfp"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user8@company.io"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user8@test.org"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1732923767606,
+            "createdAt": 1735416723138,
+            "creator": {
+                "firstName": "Alice",
+                "id": "alice.brown@company.io",
+                "lastName": "Brown"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 10",
+            "genesisArchivingDate": 1691894996470,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_10.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_10.eml",
+            "size": 3663,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "jnxqtLFuDSuNgxQAHXftmCRAirVjqpSKDEgjRyLFUZdfBwWgpywnHzutOuxOEjqA",
+                    "seedId": "fnhrtnVWvWSujKlC",
+                    "status": 2,
+                    "transaction": "XxlzrpbfFJOCyQQAiSkmEoxhtqecoejxBBCPRDoTIAdDaLnhQWWrfXIBurbVcjcT"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "alice.brown@mail.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user9@example.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 10: zlOoShtSpQcwsKg"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user9@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user9@example.com"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1715408190161,
+            "createdAt": 1736734925876,
+            "creator": {
+                "firstName": "Charlie",
+                "id": "charlie.lee@example.com",
+                "lastName": "Lee"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 11",
+            "genesisArchivingDate": 1697859302235,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_11.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_11.eml",
+            "size": 3773,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "GLZMjzfcUDvrUOeGqoelGMDajCdIfIEUHoLqRrARuROYWOYjtclEugvyKsfREGGz",
+                    "seedId": "jRTVxbMKudUMCIyi",
+                    "status": 2,
+                    "transaction": "HBSJnuQzfmlSpKkhLMkmfMwSUuoCLzLfNQONQVwPwHDHlHwBgolEfCODqIeIOrxX"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "charlie.lee@example.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user10@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 11: iuUeWlNqZGsOLvJ"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user10@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user10@demo.net"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1722166604501,
+            "createdAt": 1734948794017,
+            "creator": {
+                "firstName": "Bob",
+                "id": "bob.smith@test.org",
+                "lastName": "Smith"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 12",
+            "genesisArchivingDate": 1722255774944,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_12.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_12.eml",
+            "size": 4005,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "OIqCYUFoBRrARwrIbpsFbumOkperQjaGxBVMCPlRtkuvRckDfuGnPSRnAqSfhwkG",
+                    "seedId": "reSBfjNwADqFOIxZ",
+                    "status": 1,
+                    "transaction": "GfDWzesDvBItRRPvinNnWsnxQwnmLHylBGjvYTruoPofDjYSySaEbuVUSTmlcmRT"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "bob.smith@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user11@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 12: ORsBvKbFdHzzXuN"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user11@mail.com"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user11@test.org"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1709836519396,
+            "createdAt": 1736279469321,
+            "creator": {
+                "firstName": "Fiona",
+                "id": "fiona.davis@company.io",
+                "lastName": "Davis"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 13",
+            "genesisArchivingDate": 1703603468307,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_13.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_13.eml",
+            "size": 1939,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "FSwsDDEAJvrOCgqnxeGwwPfSCTxuaYQIUkKqgzIOwrVQUqPMmaJhblinqTyRUSwb",
+                    "seedId": "MKZVOpCXRFioCItz",
+                    "status": 3,
+                    "transaction": "kwijpZOPOaAKthtcjZczUSFjPpjzTHPeIZSyeGngNttVdrFhatpvBilmEcfXxNnt"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "fiona.davis@company.io"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user12@example.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 13: zQMuiGFximeSeLD"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user12@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user12@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1713922878715,
+            "createdAt": 1736307059617,
+            "creator": {
+                "firstName": "Diana",
+                "id": "diana.lee@example.com",
+                "lastName": "Lee"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 14",
+            "genesisArchivingDate": 1730388143307,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_14.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_14.eml",
+            "size": 2713,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "ERmlyjTxhvBbcoAVvOuglnCYqsbdlwYacvQmMNmEmzrPkrXBKrjaRQrrvInWkwLr",
+                    "seedId": "kTqQXJAnFlteLdmi",
+                    "status": 3,
+                    "transaction": "EFByrzzBxUmPigRoydtoSoelXdYMIQjOTIPpiXUgzIwFCLOMAZXSONvmGXkVOvdo"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "diana.lee@example.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user13@company.io"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 14: LoZbtxktTNxpjTE"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user13@mail.com"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user13@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1735497515925,
+            "createdAt": 1735413642428,
+            "creator": {
+                "firstName": "Edward",
+                "id": "edward.martinez@demo.net",
+                "lastName": "Martinez"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 15",
+            "genesisArchivingDate": 1735411317300,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_15.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_15.eml",
+            "size": 1351,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "CGoMIordREwckwjxRSqlUGlByMiTaePIKGQFHIczbJXBxtwsuBRIdagQWrXZkCPz",
+                    "seedId": "BaKKpEaFJKMSvSei",
+                    "status": 1,
+                    "transaction": "LpHShGBMnQnFTgUcFEWoDbkAQlpBVlmRMZvDSVdhBvGJeUilWGKQAGPzUeyRttHU"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "edward.martinez@company.io"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user14@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 15: VHZpIqnHmGAatFz"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user14@test.org"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user14@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1733773676201,
+            "createdAt": 1736524167541,
+            "creator": {
+                "firstName": "Diana",
+                "id": "diana.martinez@demo.net",
+                "lastName": "Martinez"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 16",
+            "genesisArchivingDate": 1687483179855,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_16.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_16.eml",
+            "size": 1538,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "xvLJCajhcVcmxaVfaEtUOXGCaOYeBTQAIbKkPpwUkMdqtchinGfUAbaPafghfKTg",
+                    "seedId": "XdHQmbMzRjVGCAWi",
+                    "status": 3,
+                    "transaction": "fMnTfMocqpxcShcEmdXgBMNeXmGbSGPehlngEpGfiPhhrGtEHrPzWWQNVyWfLiXA"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "diana.martinez@mail.com"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user15@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 16: qKwzgsqaWwqKkmz"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user15@mail.com"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user15@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1707518309023,
+            "createdAt": 1735427966287,
+            "creator": {
+                "firstName": "Charlie",
+                "id": "charlie.lee@example.com",
+                "lastName": "Lee"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 17",
+            "genesisArchivingDate": 1733909716054,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_17.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_17.eml",
+            "size": 2878,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "vrcyryMMYirQsNXslACbZCwMJYCyivDidHfQcKLjTvSzfGuUdvgfFRhrShBJOAIp",
+                    "seedId": "ViatUwRwcudzgDRV",
+                    "status": 2,
+                    "transaction": "yaXEImWmYKBaCCVGtHSACYVcfeuljopguloEHZLKjBzvpBYDirmipQoaFYgqkCwz"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "charlie.lee@test.org"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user16@mail.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 17: bJEFubHIAzgeNHq"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user16@company.io"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user16@company.io"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1712989210935,
+            "createdAt": 1735719972206,
+            "creator": {
+                "firstName": "Diana",
+                "id": "diana.martinez@test.org",
+                "lastName": "Martinez"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 18",
+            "genesisArchivingDate": 1728332833806,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_18.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_18.eml",
+            "size": 4103,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "XHxNwoMfKIxlJaSNPTozstmYUZbwnTazwjEofVViuImMXKMiCbLvQTMHAmOjrCeJ",
+                    "seedId": "cTkZIIQgzAQwjsOd",
+                    "status": 3,
+                    "transaction": "tHqSYUVFASUTufhwvKcsAFVyaLzCupGopsNVKwTEfutftPRsvpIldnAhGoBmUryJ"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "diana.martinez@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user17@test.org"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 18: xULGGOgHGWTmpiC"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user17@test.org"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user17@test.org"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1727712192779,
+            "createdAt": 1736464213054,
+            "creator": {
+                "firstName": "Isaac",
+                "id": "isaac.williams@demo.net",
+                "lastName": "Williams"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 19",
+            "genesisArchivingDate": 1716653616268,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_19.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_19.eml",
+            "size": 3982,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "MkjEnobwXkfLFPGlIYulASwPYrQqEjwWHrBrPGDiSyjfKRjjqXYpTLdxuJrHladD",
+                    "seedId": "zCkNouLLIWqcbyxv",
+                    "status": 2,
+                    "transaction": "XKbeyUKbNwYDMjUXltBqVqpXokBIXvQoiEJDMeaLeNeLSdveJpVSGRAjDuqTZkBm"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "isaac.williams@demo.net"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user18@mail.com"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 19: DYNIJaBzggQjuGh"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user18@demo.net"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user18@test.org"
+                }
+            ]
+        },
+        {
+            "archiveUntil": 1708030327131,
+            "createdAt": 1734970504165,
+            "creator": {
+                "firstName": "Alice",
+                "id": "alice.lee@company.io",
+                "lastName": "Lee"
+            },
+            "deletedAt": null,
+            "description": "Generated email file 20",
+            "genesisArchivingDate": 1723172185600,
+            "hardDeletedAt": null,
+            "isFinalized": true,
+            "name": "email_20.eml",
+            "parent": "/inbox",
+            "path": "/inbox/email_20.eml",
+            "size": 4471,
+            "tags": [
+                "email",
+                "archive"
+            ],
+            "timestamps": {
+                "USD": {
+                    "rootHash": "WGtaFsrhpjeqeeKCJToeTYWJPkDjMRLxdgmmbmowqCdvwOMAgoczQUjJedofGCdz",
+                    "seedId": "LLDBrerDqVMgmBsw",
+                    "status": 1,
+                    "transaction": "kDzRtFLAENmfxgCllKUDgmrrFiaphgdRaKtkQjsptssqEowgcfuzxZvXuJWTYEEF"
+                }
+            },
+            "searchAttributes": [
+                {
+                    "name": "sender",
+                    "value": "alice.lee@company.io"
+                },
+                {
+                    "name": "receiver",
+                    "value": "receiver.user19@demo.net"
+                },
+                {
+                    "name": "subject",
+                    "value": "Subject 20: zfTFveQIMirEYRb"
+                },
+                {
+                    "name": "cc",
+                    "value": "cc.user19@mail.com"
+                },
+                {
+                    "name": "bcc",
+                    "value": "bcc.user19@mail.com"
+                }
+            ]
+        }
+    ]
+}
